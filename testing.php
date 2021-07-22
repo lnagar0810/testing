@@ -1,1 +1,5 @@
-#testing
+<?php
+
+echo "test";
+
+?>
